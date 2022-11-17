@@ -1,2 +1,2 @@
 # Numerical_ODE
-Solving ODE numerically by python 3.
+Solving ordinary differential equation numerically by python 3.
